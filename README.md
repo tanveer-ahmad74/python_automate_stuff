@@ -10,6 +10,6 @@
    
   3.For doing AutomateGoogleSearch U have to install selenium First
     https://sites.google.com/a/chromium.org/chromedriver/downloads go to this URl and download WebDriver for Chrome 
-    i m using linux so i download linux and add this according to the setting 
+    i m using linux so i downloaded linux related file and add this according to the path where it is exist 
     after that install this [sudo apt-get install chromium-chromedriver] as well
   
