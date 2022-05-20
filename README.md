@@ -7,3 +7,9 @@
 
   2. I also work on some Excel sheet work using python like sum of the column and add some rows and column etc
    To do some work on excel file u can install openpyxl lib using pip command.
+   
+  3.For doing AutomateGoogleSearch U have to install selenium First
+    https://sites.google.com/a/chromium.org/chromedriver/downloads go to this URl and download WebDriver for Chrome 
+    i m using linux so i download linux and add this according to the setting 
+    after that install this [sudo apt-get install chromium-chromedriver] as well
+  
