@@ -4,7 +4,7 @@ def send_email():
     port = 465
     smtp_server = 'smtp.gmail.com'
     sender_email = '@gmail.com'
-    receiver_email = '@gmail.com'
+    receiver_email = '@gmail.com'  #U can add list of multiple receiver 
     password = 'Google_APP_PASSWORD_HERE'
     message= 'this is the message for rana handsome guy'
 
