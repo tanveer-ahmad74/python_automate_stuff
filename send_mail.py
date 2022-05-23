@@ -5,7 +5,7 @@ def send_email():
     smtp_server = 'smtp.gmail.com'
     sender_email = '@gmail.com'
     receiver_email = '@gmail.com'
-    password = 'bbghnecifhopsbno'
+    password = 'Google_APP_PASSWORD_HERE'
     message= 'this is the message for rana handsome guy'
 
     context = ssl.create_default_context()
