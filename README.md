@@ -13,6 +13,5 @@
     i m using linux so i downloaded linux related file and add this according to the path where it is exist 
     after that install this [sudo apt-get install chromium-chromedriver] as well
     
-  4.In send_email U have to enter google app password here [password ='Google_APP_PASSWORD_HERE'] not a actual password of gmail.
-  
+
   
