@@ -27,7 +27,7 @@ def sendEmail(smtpHost, smtpPort, mailUname, mailPwd, fromEmail, mailSubject, ma
 smtpHost = "smtp.gmail.com"
 smtpPort = 587
 mailUname = 'ta551682@gmail.com' #From 
-mailPwd = 'vbhbrlafebiosbsp'    
+mailPwd = 'vbhbrfadsfasdfp'    #APp_Passwprd_of_Gmail
 fromEmail = 'usmaan.arsh908@gmail.com' #to send
 
 
