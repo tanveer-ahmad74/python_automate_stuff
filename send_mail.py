@@ -26,9 +26,9 @@ def sendEmail(smtpHost, smtpPort, mailUname, mailPwd, fromEmail, mailSubject, ma
 # mail server parameters
 smtpHost = "smtp.gmail.com"
 smtpPort = 587
-mailUname = 'ta551682@gmail.com'
-mailPwd = 'vbhbrlafebiosbsp'
-fromEmail = 'usmaan.arsh908@gmail.com'
+mailUname = 'ta551682@gmail.com' #From 
+mailPwd = 'vbhbrlafebiosbsp'    
+fromEmail = 'usmaan.arsh908@gmail.com' #to send
 
 
 # mail body, recepients, attachment files
